@@ -1,2 +1,0 @@
-# ShadowDb
-Database
